@@ -743,7 +743,11 @@ body{
     border-radius: 50%;
 }
 .footer-icon p{
-    color: rgb(27, 132, 136);
+    color: rgb(55, 91, 92);
     font-size: 20px;
     padding: 10px 0;
 }
+.footer-icon-list li i:hover{
+    background-color: rgb(31, 116, 116);
+}
+    
